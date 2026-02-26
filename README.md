@@ -14,10 +14,11 @@ This project demonstrates fundamental image processing techniques through two pr
 ## Prerequisites
 Before running this script, ensure you have Python installed along with the OpenCV library.
 
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
 Install OpenCV via pip:
 ```bash
 pip install opencv-python
 
 
 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
